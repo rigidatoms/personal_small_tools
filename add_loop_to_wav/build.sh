@@ -1,0 +1,1 @@
+gcc -Os -Wall -Wextra -o main -s main.c
